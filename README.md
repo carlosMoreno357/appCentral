@@ -6,7 +6,10 @@ Tutorial de React Native para Central Informática - Lista de Tareas
 [Manejo de State, Fetch y Creación de componentes Stateful]
 
   Agregar tareas
+
   Generar tareas random a través de API
+
   Borrar tareas
+
   Limpiar lista
 
